@@ -83,83 +83,83 @@ https://www.crowdcast.io/e/ddc-mea2021
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide1.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide1.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide2.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide2.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Kerass/blob/master/images/slide_images/Slide3.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide3.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide4.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide4.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide5.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide5.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide6.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide6.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide7.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide7.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide8.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide8.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide9.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide9.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide10.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide10.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide11.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide11.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide12.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide12.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide13.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide13.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide14.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide14.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide15.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide15.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide16.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide16.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide17.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide17.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide18.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide18.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide18.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide19.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/master/images/slide_images/Slide20.jpeg?raw=true)
+![center](https://github.com/mridulrb/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide20.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
