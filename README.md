@@ -1,5 +1,14 @@
 # Recurrent Neural Networks using TensorFlow Keras
 
+## WORKSHOP RESOURCES
+Login/Sign Up for IBM Cloud: https://ibm.biz/MEA-DataAI
+
+Hands-On Guide: https://ibm.biz/MEA-DataAI-NNLab
+
+Slides: https://ibm.biz/MEA-DataAI-NNSlides
+
+Workshop Replay:  https://www.crowdcast.io/e/ddc-mea2021
+
 Language Modeling is the task of assigning probabilities to sequences of words. Given a context of one or a sequence of words in the language that the language model was trained on, the model should provide the next most probable words or sequence of words that follows from the given sequence of words in the sentence. Language Modeling is one of the most important tasks in Natural Language Processing.
 
 Recurrent neural networks (RNN) are a class of neural networks that is powerful for modeling sequence data such as time series or natural language. Basically an RNN uses a *for* loop and performs multiple iterations over the timesteps of a sequence while maintaining an internal state that encodes information about the timesteps it has seen so far. RNNs can easily be constructed using the Keras RNN API available within [TensorFlow](https://www.tensorflow.org) - an end-to-end open source machine learning platform that makes it easier to build and deploy machine learning models.
