@@ -31,7 +31,7 @@ The goal of this tutorial is to import a Jupyter notebook written in Python into
 
 The following prerequisites are required to follow the tutorial:
 
-* An [IBM Cloud Account](https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg)
+* An [IBM Cloud Account](https://ibm.biz/MEA-DataAI)
 * [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
 
 ## Estimated time
