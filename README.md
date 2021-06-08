@@ -1,6 +1,6 @@
 # Recurrent Neural Networks using TensorFlow Keras
 
-## WORKSHOP RESOURCES
+## Workshop Resources
 Login/Sign Up for IBM Cloud: https://ibm.biz/MEA-DataAI
 
 Hands-On Guide: https://ibm.biz/MEA-DataAI-NNLab
@@ -8,6 +8,8 @@ Hands-On Guide: https://ibm.biz/MEA-DataAI-NNLab
 Slides: https://ibm.biz/MEA-DataAI-NNSlides
 
 Workshop Replay:  https://www.crowdcast.io/e/ddc-mea2021
+
+## Tutorial
 
 Language Modeling is the task of assigning probabilities to sequences of words. Given a context of one or a sequence of words in the language that the language model was trained on, the model should provide the next most probable words or sequence of words that follows from the given sequence of words in the sentence. Language Modeling is one of the most important tasks in Natural Language Processing.
 
@@ -194,3 +196,12 @@ Refer the notebook used in the [Demand forecasting using deep learning](https://
 ## Summary
 
 In this tutorial, you learned about Language Modeling. You learned how to run a Jupyter Notebook using Watson Studio on IBM Cloud Pak for Data as a Service and how to create a Recurrent Neural Network model using TensorFlow based on the Long Short-Term Memory unit. Finally, you used this model to train and benchmark on the Penn Treebank dataset.
+
+## Workshop Resources
+Login/Sign Up for IBM Cloud: https://ibm.biz/MEA-DataAI
+
+Hands-On Guide: https://ibm.biz/MEA-DataAI-NNLab
+
+Slides: https://ibm.biz/MEA-DataAI-NNSlides
+
+Workshop Replay:  https://www.crowdcast.io/e/ddc-mea2021
