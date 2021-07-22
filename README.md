@@ -1,13 +1,13 @@
 # Recurrent Neural Networks using TensorFlow Keras
 
 ## Workshop Resources
-Login/Sign Up for IBM Cloud: https://ibm.biz/MEA-DataAI
+Login/Sign Up for IBM Cloud: https://ibm.biz/rnn-tensorflow
 
-Hands-On Guide: https://ibm.biz/MEA-DataAI-NNLab
+Hands-On Guide: https://ibm.biz/rnn-tensorflow-NNLab
 
-Slides: https://ibm.biz/MEA-DataAI-NNSlides
+Slides: https://ibm.biz/rnn-tensorflow-slides
 
-Workshop Replay:  https://www.crowdcast.io/e/ddc-mea2021
+Workshop Replay:  https://www.crowdcast.io/e/build-a-recurrent-neural
 
 ## Tutorial
 
@@ -31,7 +31,7 @@ The goal of this tutorial is to import a Jupyter notebook written in Python into
 
 The following prerequisites are required to follow the tutorial:
 
-* An [IBM Cloud Account](https://ibm.biz/MEA-DataAI)
+* An [IBM Cloud Account](https://ibm.biz/rnn-tensorflow)
 * [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
 
 ## Estimated time
