@@ -59,7 +59,7 @@ https://www.crowdcast.io/e/build-a-recurrent-neural
 - GitHub Repository - https://ibm.biz/rnn-tensorflow-NNRepo
 - Workshop Slides - https://ibm.biz/rnn-tensorflow-slides
 - Survey - https://ibm.biz/rnn-tensorflow-Survey
-- Follow along for the hands-on -https://ibm.biz/rnn-tensorflow-NNLab
+- Follow along for the hands-on - https://ibm.biz/rnn-tensorflow-NNLab
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
@@ -148,7 +148,7 @@ https://www.crowdcast.io/e/build-a-recurrent-neural
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/IBMDeveloperMEA/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide21.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide22.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
