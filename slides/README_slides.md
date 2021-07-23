@@ -49,6 +49,11 @@ In this workshop, we will learn how to perform language modeling on the Penn Tre
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
+👩‍💻 Who should attend? <br/>
+- Machine learning enthusiasts <br/>
+- Data scientists <br/>
+- Anyone who is growing in the field of Data Science & AI <br/>
+
 🎈 Prerequisites <br />
 ☁ Sign in/Login into IBM Cloud using: https://ibm.biz/rnn-tensorflow
 
