@@ -34,6 +34,9 @@ The following prerequisites are required to follow the tutorial:
 * An [IBM Cloud Account](https://ibm.biz/rnn-tensorflow)
 * [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
 
+## Architecture Diagram
+![Architecture Diagram](images/architecture-flow.png)
+
 ## Estimated time
 
 This tutorial will take approximately four hours to complete. The bulk of this time will be spent training/evaluating the LSTM model. You can refer the [reducing the notebook execution time](#-reducing-the-notebook-execution-time) section for methods to reduce the time required for execution.
