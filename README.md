@@ -47,7 +47,7 @@ This tutorial will take approximately four hours to complete. The bulk of this t
 
 ### Set up IBM Cloud Pak for Data as a Service
 
-1. Open a browser, and log in to [IBM Cloud](https://ibm.biz/MEA-DataAI) with your IBM Cloud credentials.
+1. Open a browser, and log in to [IBM Cloud](https://ibm.biz/rnn-tensorflow) with your IBM Cloud credentials.
 
     ![Log into IBM Cloud](images/log-into-ibm-cloud.png)
 
