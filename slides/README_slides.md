@@ -153,10 +153,6 @@ https://www.crowdcast.io/e/build-a-recurrent-neural
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/IBMDeveloperMEA/Recurrent-Neural-Networks-using-TensorFlow-Keras/blob/main/images/slide_images/Slide22.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
